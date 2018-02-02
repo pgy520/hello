@@ -1,0 +1,255 @@
+﻿{
+  "/": {
+    "cn": "首页",
+    "en": "Home",
+    "jp": "ホーム",
+    "kr": "홈 페이지"
+  },
+  "/project/overview": {
+    "cn": "项目综述",
+    "en": "PROJECT OVERVIEW",
+    "jp": "プロジェクト概要",
+    "kr": "항목 개요"
+  },
+  "/project/whitepaper": {
+    "cn": "白皮书",
+    "en": "White Paper on UnitedBitcoin",
+    "jp": "白書",
+    "kr": "백서"
+  },
+  "/project/wallet": {
+    "cn": "钱包&源代码",
+    "en": "Wallet & Source Code",
+    "jp": "ウォレット及ソースコード",
+    "kr": "지갑 & 소스 코드"
+  },
+  "/project/ide": {
+    "cn": "IDE",
+    "en": "IDE",
+    "jp": "IDE",
+    "kr": "IDE"
+  },
+  "/project/get": {
+    "cn": "获取UnitedBitcoin",
+    "en": "Get UnitedBitcoin",
+    "jp": "ユナイテッドビットコインの取得",
+    "kr": "얻다UnitedBitcoin"
+  },
+  "/project/team": {
+    "cn": "团队",
+    "en": "Team",
+    "jp": "チーム",
+    "kr": "팀"
+  },
+  "/project/features": {
+    "cn": "特征",
+    "en": "FEATURES",
+    "jp": "特徴",
+    "kr": "특징"
+  },
+  "/project/ecosystem": {
+    "cn": "生态系统",
+    "en": "Ecosystem",
+    "jp": "エコシステム",
+    "kr": "생태 시스템"
+  },
+  "/support/whitepaper": {
+    "cn": "白皮书",
+    "en": "White Paper",
+    "jp": "白書",
+    "kr": "백서"
+  },
+  "/support/faq": {
+    "cn": "常见问题",
+    "en": "FAQ",
+    "jp": "よくある質問",
+    "kr": "질문"
+  },
+  "/join/joinus": {
+    "cn": "加入我们",
+    "en": "Join Us",
+    "jp": "私たちに参加して",
+    "kr": "가입 우리"
+  },
+  "/news": {
+    "cn": "官方新闻",
+    "en": "News List",
+    "jp": "ニュースリスト",
+    "kr": "정부 뉴스"
+  },
+  "/news/detail": {
+    "cn": "新闻详情",
+    "en": "News Detail",
+    "jp": "ニュース詳細",
+    "kr": "정부 뉴스"
+  },
+  "/resources/faq": {
+    "cn": "常见问题",
+    "en": "FAQ",
+    "jp": "よくある質問",
+    "kr": "질문"
+  },
+  "/resources/technicaldocument": {
+    "cn": "技术文档",
+    "en": "Technical Document",
+    "jp": "テクニカル　ドキュメント",
+    "kr": "기술 문서"
+  },
+  "/resources/personaltutorials": {
+    "cn": "Personal Tutorial",
+    "en": "Personal Tutorial",
+    "jp": "パーソナルチュートリアル",
+    "kr": ""
+  },
+  "/resources/exchangetutorials": {
+    "cn": "Exchange Tutorials",
+    "en": "Exchange Tutorials",
+    "jp": "エクスチェンジ　チュートリアル",
+    "kr": ""
+  },
+  "/resources/miningpooltutorials": {
+    "cn": "Mining Pool Tutorials",
+    "en": "Mining Pool Tutorials",
+    "jp": "マイニング　プール　チュートリアル",
+    "kr": ""
+  },
+  "/join/businesscooperation": {
+    "cn": "商业合作",
+    "en": "BUSINESS COOPERATION",
+    "jp": "商業提携",
+    "kr": "상업 협력"
+  },
+  "/about/team": {
+    "cn": "团队",
+    "en": "Team",
+    "jp": "チーム",
+    "kr": "팀"
+  },
+  "/about/joinus": {
+    "cn": "加入我们",
+    "en": "Join Us",
+    "jp": "私たちに参加して",
+    "kr": "가입 우리"
+  },
+  "/about/businesscooperation": {
+    "cn": "商业合作",
+    "en": "BUSINESS COOPERATION",
+    "jp": "商業提携",
+    "kr": "상업 협력"
+  },
+  "/about/contact": {
+    "cn": "联系我们",
+    "en": "CONTACT US",
+    "jp": "お問い合わせ",
+    "kr": "연락"
+  },
+  "/project/ecosystem/exchanges": {
+    "cn": "交易平台",
+    "en": "Exchanges",
+    "jp": "エクスチェンジ",
+    "kr": "관련 사이트"
+  },
+  "/tutorial/qt": {
+    "cn": "钱包使用教程-使用UnitedBitcoin-Qt",
+    "en": "钱包使用教程-使用UnitedBitcoin-Qt",
+    "jp": "钱包使用教程-使用UnitedBitcoin-Qt",
+    "kr": "钱包使用教程-使用UnitedBitcoin-Qt"
+  },
+  "/tutorial/electrum": {
+    "cn": "钱包使用教程-使用electrum",
+    "en": "钱包使用教程-使用electrum",
+    "jp": "钱包使用教程-使用electrum",
+    "kr": "钱包使用教程-使用electrum"
+  },
+  "/user/register": {
+    "cn": "注册会员",
+    "en": "Registration",
+    "jp": "",
+    "kr": ""
+  },
+  "/user/login": {
+    "cn": "会员登录",
+    "en": "Log In",
+    "jp": "",
+    "kr": ""
+  },
+  "/user/forgetLoginPwd": {
+    "cn": "找回登录密码",
+    "en": "Forgot Password",
+    "jp": "",
+    "kr": ""
+  },
+  "/u/service": {
+    "cn": "比特币(BTC)用户逾期领取UBTC申请",
+    "en": "Claim UBTC as BTC Holders in Grace Period",
+    "jp": "猶予期間中にUTCをBTC保有者として請求する",
+    "kr": ""
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  }
+
+}

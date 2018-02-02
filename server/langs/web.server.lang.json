@@ -1,0 +1,1742 @@
+﻿{
+  "BTC持有者可以提币的额度是BTC区块498777的余额":{
+    "cn":"",
+    "en":"For BTC users, your UBTC balance is equal to the BTC balance at block height 498,777",
+    "jp":"BTC保有者が引き出し出来る金額は、BTCブロック高さ498777の残高である",
+    "kr":"BTC 보유자가 인출 가능한 금액은 BTC 블록 높이 498777 잔액이다"
+  },
+  "如果您有更多的地址需要申领UBTC,请点击此处":{
+    "cn":"",
+    "en":"Click here if you have more addresses to make UBTC claim",
+    "jp":"UBTCを請求するアドレスが更にある場合は、こちらをクリックして下さい",
+    "kr":"UBTC을 청구 할 주소가 더욱 더 있으면 여기를 클릭하십시오"
+  },
+  "BTC持有者验证金额接收地址":{
+    "cn":"BTC持有者验证金额接收地址:",
+    "en": "For verification, please send the designated amount of BTC to ",
+    "jp": "BTC保有者確認金額の受信アドレス:",
+    "kr": "BTC 보유자 확인 금액 수신 주소:"
+  },
+  "其他社区的用户请将指定金额打入以下账户来验证地址所有权。您的UBTC余额计算将基于每月一次的余额快照。":{
+    "cn":"",
+    "en": "For users from other communities, please send the designated amount of your currency to below addresses for verification. Your UBTC balance will be calculated based on the monthly snapshot.",
+    "jp": "For users from other communities, please send the designated amount of your currency to below addresses for verification. Your UBTC balance will be calculated based on the monthly snapshot.",
+    "kr": "For users from other communities, please send the designated amount of your currency to below addresses for verification. Your UBTC balance will be calculated based on the monthly snapshot."
+  },
+  "QTUM持有者验证金额接收地址":{
+    "cn":"QTUM持有者验证金额接收地址:",
+    "en": "For verification, please send the designated amount of QTUM to ",
+    "jp": "QTUM保有者確認金額の受信アドレス:",
+    "kr": "QTUM 보유자 확인 금액 수신 주소:"
+  },
+  "验证金额":{
+    "cn":"",
+    "en": "Verification amount",
+    "jp": "検証金額",
+    "kr": "인증 금액"
+  },
+  "暂无数据":{
+    "cn":"暂无数据",
+    "en": "No data",
+    "jp": "データはまだありません",
+    "kr": "데이터는 아직 없습니다"
+  },
+  "空投详情":{
+    "cn":"",
+    "en": "Airdrop Announcement",
+    "jp": "エアドロップ発表",
+    "kr": "에어드롭 발표"
+  },
+  "选择币种":{
+    "cn":"选择币种",
+    "en": "Coin",
+    "jp": "通貨",
+    "kr": "통화지갑"
+  },
+  "UBTC申领":{
+    "cn":"",
+    "en": "UBTC Claim",
+    "jp": "UBTC請求",
+    "kr": "UBTC 신청"
+  },
+  "我们会尽快核对您的持币地址，并于每月1日生成快照，您可从用户中心提取您的UBTC.":{
+    "cn":"我们将对您的地址进行验证，并在每月1号生成新的余额快照。一旦您与我们达成一致，您就可以在您的UB账户中对已分发的UBTC进行激活和提取。在分发之前，您将会收到一封含有进一步操作说明的邮件。",
+    "en": "We will verify your address and take a snapshot of your balance on the 1st of each month. Once reconciled, you can activate and withdraw the distributed UBTC from your UB account.You will receive an email with further instructions prior to the distribution",
+    "jp": "お客様のアドレスを確認し、毎月1日にのスナップショットとの残高を作成します。 完了すると、配布されたUBTCをUBアカウントの中でアクティブ化する其れとも引き出す事ができます。配布の前に、詳しい指示が記載されたメールが届きます",
+    "kr": "귀하의 주소를 확인하고 매월 1 일에 스냅 샷 및 잔액을 만듭니다. 완료되면 배포 된 UBTC를 UB 계정에서 활성화 그것과도 인출 할 수 있습니다.배포 전에 자세한 지시 사항이 기재된 메일이 도착합니다"
+  },
+  "请选择币种类型":{
+    "cn":"请选择币种类型",
+    "en": "Please Select Coin",
+    "jp": "",
+    "kr": ""
+  },
+  "非交易所地址":{
+    "cn":"非交易所地址",
+    "en": "Please use a non-exchange address",
+    "jp": "",
+    "kr": ""
+  },
+  "申领UBTC": {
+    "cn": "申领UBTC",
+    "en": "Claim UBTC",
+    "jp": "ubtc受取る",
+    "kr": "신청하여 받다 ubtc"
+  },
+  "提取UBTC": {
+    "cn": "提取UBTC",
+    "en": "Withdraw UBTC",
+    "jp": "抽出UBTC",
+    "kr": "추출 UBTC"
+  },
+  "币种": {
+    "cn": "币种",
+    "en": "Coin",
+    "jp": "通貨",
+    "kr": "통화"
+  },
+  "提取货币": {
+    "cn": "提取货币",
+    "en": "Withdrawal",
+    "jp": "",
+    "kr": ""
+  },
+  "钱包地址": {
+    "cn": "钱包地址",
+    "en": "Wallet Address",
+    "jp": "財布アドレス",
+    "kr": "주소선택"
+  },
+  "提币金额": {
+    "cn": "提币金额",
+    "en": "Amount",
+    "jp": "引き出し金額",
+    "kr": "서랍 금액"
+  },
+  "资产总额": {
+    "cn": "资产总额",
+    "en": "Total Balance",
+    "jp": "総資産",
+    "kr": "총자산"
+  },
+  "地址": {
+    "cn": "地址",
+    "en": "Add",
+    "jp": "アドレス",
+    "kr": "주소"
+  },
+  "余额": {
+    "cn": "余额",
+    "en": "Balance",
+    "jp": "残高",
+    "kr": "잔액"
+  },
+  "验证状态": {
+    "cn": "",
+    "en": "Verification Status",
+    "jp": "状態を確認する",
+    "kr": "상태를 확인합니다"
+  },
+  "已验证": {
+    "cn": "",
+    "en": "Verified",
+    "jp": "検証済み",
+    "kr": "검증 끝났습니다"
+  },
+  "未验证": {
+    "cn": "",
+    "en": "Unverified",
+    "jp": "未確認",
+    "kr": "아직 확인하지 않습니다"
+  },
+  "提币状态": {
+    "cn": "提币状态",
+    "en": "Withdrawal Status",
+    "jp": "引き出し状態",
+    "kr": "서랍 상태"
+  },
+  "待处理": {
+    "cn": "待处理",
+    "en": "Pending",
+    "jp": "保留中",
+    "kr": "보류"
+  },
+  "未提币": {
+    "cn": "未提币",
+    "en": "Ready to withdraw",
+    "jp": "引き出ししていない",
+    "kr": "서랍하지"
+  },
+  "已提币": {
+    "cn": "已提币",
+    "en": "Withdrawn",
+    "jp": "引き出しした",
+    "kr": "서랍 한"
+  },
+  "操作": {
+    "cn": "操作",
+    "en": "Action",
+    "jp": "操作する",
+    "kr": "조작"
+  },
+
+  "提币": {
+    "cn": "提币",
+    "en": "Withdraw",
+    "jp": "引き出しする",
+    "kr": "서랍하기"
+  },
+  "提取货币": {
+    "cn": "提取货币",
+    "en": "Confirm to Withdraw",
+    "jp": "通貨を引き出す",
+    "kr": "통화를 인출"
+  },
+  "登陆密码":{
+    "cn": "登陆密码",
+    "en": "Login password",
+    "jp": "ログインパスワード",
+    "kr": "로그인 비밀번호"
+  },
+  "提币成功":{
+    "cn": "提币成功",
+    "en": "Withdrawal Success",
+    "jp": "",
+    "kr": ""
+  },
+  "钱包地址有误":{
+    "cn": "钱包地址有误",
+    "en": "Wallet Address is error",
+    "jp": "財布のアドレスが間違っています",
+    "kr": "지갑의 주소가 잘못되었습니다."
+  },
+  "图形验证码不能为空":{
+    "cn": "",
+    "en": "CAPTCHA text should not empty",
+    "jp": "グラフィック認証コードは空白のままにすることが出来ません",
+    "kr": "그래픽 인증 코드는 비워 할 수 없습니다"
+  },
+  "登陆密码不能为空":{
+    "cn": "登陆密码不能为空",
+    "en": "Login password should not empty",
+    "jp": "ログインパスワードを空白のままにすることが出来ません",
+    "kr": "로그인 암호를 비워 할 수 없습니다"
+  },
+  "确定":{
+    "cn": "确定",
+    "en": "Ok",
+    "jp" : "確定",
+    "kr" : "확인"
+  },
+  "取消":{
+    "cn": "取消",
+    "en": "Cancel",
+    "jp" : "キャンセル",
+    "kr" : "취소"
+  },
+  "钱包地址不能为空":{
+    "cn": "钱包地址不能为空",
+    "en": "Wallet address can not be empty",
+    "jp": "財布のアドレスは空白のままにすることが出来ません",
+    "kr": "지갑의 주소는 비워 할 수 없습니다"
+  },
+
+  "星期一": {
+    "cn": "星期一",
+    "en": "Monday",
+    "jp": "月曜日",
+    "kr": "월요일"
+  },
+  "星期二": {
+    "cn": "星期二",
+    "en": "Tuesday",
+    "jp": "火曜日",
+    "kr": "화요일"
+  },
+  "星期三": {
+    "cn": "星期三",
+    "en": "Wednesday",
+    "jp": "水曜日",
+    "kr": "수요일"
+  },
+  "星期四": {
+    "cn": "星期四",
+    "en": "Thursday",
+    "jp": "木曜日",
+    "kr": "목요일"
+  },
+  "星期五": {
+    "cn": "星期五",
+    "en": "Friday",
+    "jp": "金曜日",
+    "kr": "금요일"
+  },
+  "星期六": {
+    "cn": "星期六",
+    "en": "Saturday",
+    "jp": "土曜日",
+    "kr": "토요일"
+  },
+  "星期日": {
+    "cn": "星期日",
+    "en": "Sunday",
+    "jp": "日曜日",
+    "kr": "일요일"
+  },
+  "年": {
+    "cn": "年",
+    "en": "Year",
+    "jp": "年",
+    "kr": "년"
+  },
+  "月": {
+    "cn": "月",
+    "en": "Month",
+    "jp": "月",
+    "kr": "월"
+  },
+  "周": {
+    "cn": "周",
+    "en": "Week",
+    "jp": "周",
+    "kr": "주"
+  },
+  "日": {
+    "cn": "日",
+    "en": "Day",
+    "jp": "日",
+    "kr": "일"
+  },
+  "时": {
+    "cn": "时",
+    "en": "Hour",
+    "jp": "時",
+    "kr": "시"
+  },
+  "分": {
+    "cn": "分",
+    "en": "Min",
+    "jp": "分",
+    "kr": "분"
+  },
+  "秒": {
+    "cn": "秒",
+    "en": "Second",
+    "jp": "秒",
+    "kr": "초"
+  },
+  "Home": {
+    "cn": "首页",
+    "en": "",
+    "jp": "ホーム",
+    "kr": "홈 페이지"
+  },
+  "PROJECT": {
+    "cn": "项目",
+    "en": "",
+    "jp": "プロジェクト",
+    "kr": "개요"
+  },
+  "Project overview": {
+    "cn": "项目概况",
+    "en": "",
+    "jp": "プロジェクト概要",
+    "kr": "개요"
+  },
+  "Features": {
+    "cn": "特性",
+    "en": "",
+    "jp": "特徴",
+    "kr": "특성"
+  },
+
+  "Wallet & Source Code": {
+    "cn": "钱包&源代码",
+    "en": "",
+    "jp": "ウォレット及ソースコード",
+    "kr": "지갑 및 소스코드"
+  },
+  "IDE": {
+    "cn": "集成开发环境",
+    "en": "",
+    "jp": "統合開発環境",
+    "kr": "통합 개발 환경"
+  },
+  "Get UnitedBitcoin": {
+    "cn": "领取UnitedBitcoin",
+    "en": "",
+    "jp": "ユナイテッドビットコインの取得",
+    "kr": "유나이티드비트코인의 취득"
+  },
+  "ROADMAP": {
+    "cn": "路线图",
+    "en": "",
+    "jp": "ロードマップ",
+    "kr": "로드맵"
+  },
+  "SUPPORT": {
+    "cn": "帮助",
+    "en": "",
+    "jp": "サポート",
+    "kr": "지원"
+  },
+  "White Paper": {
+    "cn": "白皮书",
+    "en": "",
+    "jp": "白書",
+    "kr": "백서"
+  },
+  "White paper": {
+    "cn": "白皮书",
+    "en": "",
+    "jp": "白書",
+    "kr": "백서"
+  },
+  "Ecosystem": {
+    "cn": "生态系统",
+    "en": "Ecosystem",
+    "jp": "エコシステム",
+    "kr": "에코 시스템"
+  },
+  "FAQ": {
+    "cn": "常见问题",
+    "en": "",
+    "jp": "よくある質問",
+    "kr": "자주 묻는 질문"
+  },
+  "News": {
+    "cn": "新闻",
+    "en": "",
+    "jp": "ニュース",
+    "kr": "뉴스"
+  },
+  "NEWS": {
+    "cn": "新闻",
+    "en": "",
+    "jp": "ニュース",
+    "kr": "뉴스"
+  },
+  "LANGUAGE": {
+    "cn": "语言",
+    "en": "",
+    "jp": "言語",
+    "kr": "언어"
+  },
+  "Contact Us": {
+    "cn": "联系我们",
+    "en": "",
+    "jp": "お問い合わせ",
+    "kr": "문의하기"
+  },
+  "CONTACT US": {
+    "cn": "联系我们",
+    "en": "",
+    "jp": "お問い合わせ",
+    "kr": "문의하기"
+  },
+  "About": {
+    "cn": "关于",
+    "en": "",
+    "jp": "私たちに関して",
+    "kr": "우리에 관하여"
+  },
+  "Team": {
+    "cn": "团队",
+    "en": "",
+    "jp": "チーム",
+    "kr": "팀"
+  },
+  "Join Us": {
+    "cn": "加入我们",
+    "en": "",
+    "jp": "私達に加入",
+    "kr": "우리에 가입"
+  },
+  "Business Cooperation": {
+    "cn": "商业合作",
+    "en": "",
+    "jp": "商業提携",
+    "kr": "상업 제휴"
+  },
+  "HOME": {
+    "cn": "首页",
+    "en": "",
+    "jp": "ホームページ",
+    "kr": "홈 페이지"
+  },
+  "ABOUT UB": {
+    "cn": "关于UB",
+    "en": "",
+    "jp": "UBについて",
+    "kr": "UB 대해"
+  },
+
+  "Contact UB": {
+    "cn": "联系UB",
+    "en": "",
+    "jp": "UBに連絡",
+    "kr": "UB에 연락"
+  },
+  "UnitedBitcoin": {
+    "cn": "比特联储",
+    "en": "",
+    "jp": "ユナイテッドビットコイン",
+    "kr": "유나이티드비트코인"
+  },
+  "Launch Event Video": {
+    "cn": "UB发布会视频",
+    "en": "",
+    "jp": "発表イベントビデオ",
+    "kr": "쏘다이벤트비디오"
+  },
+  "Overview": {
+    "cn": "项目概况",
+    "en": "",
+    "jp": "オーバービュー",
+    "kr": "개요"
+  },
+  "More": {
+    "cn": "更多",
+    "en": "",
+    "jp": "もっと",
+    "kr": "더"
+  },
+  "LIGHTNING NETWORK": {
+    "cn": "闪电网络",
+    "en": "",
+    "jp": "ライトニングネットワーク",
+    "kr": "라이트닝 네트워크"
+  },
+  "INSTANT PAYMENTS": {
+    "cn": "快速支付",
+    "en": "",
+    "jp": "インスタントペイメント",
+    "kr": "인스턴트 결제"
+  },
+  "FASTER TRANSACTIONS": {
+    "cn": "快速交易",
+    "en": "",
+    "jp": "高速な取引",
+    "kr": "빠른 거래"
+  },
+  "ON-CHAIN SCALABILITY AND SEGWIT": {
+    "cn": "链上扩容和隔离见证",
+    "en": "",
+    "jp": "オンチェーンのスケーラビリティとセグウィット",
+    "kr": "온 체인확장성및세구위토"
+  },
+  "SMART CONTRACTS": {
+    "cn": "智能合约",
+    "en": "",
+    "jp": "スマート契約",
+    "kr": "스마트 계약"
+  },
+  "INFINITE POSSIBILITIES": {
+    "cn": "无限可能",
+    "en": "",
+    "jp": "無限な可能性",
+    "kr": "무한한 가능성"
+  },
+  "PEGGED FIAT CURRENCY SYSTEM": {
+    "cn": "恒值货币体系",
+    "en": "",
+    "jp": "ペッグされたフラット通貨システム",
+    "kr": "페그 된 플랫 통화 시스템"
+  },
+  "June 2016": {
+    "cn": "2016年6月",
+    "en": "",
+    "jp": "2016年6月",
+    "kr": "2016년 6월"
+  },
+  "May 2017": {
+    "cn": "2017年5月",
+    "en": "",
+    "jp": "2017年5月",
+    "kr": "2017년 5월"
+  },
+  "September 12, 2017": {
+    "cn": "2017年9月12日",
+    "en": "",
+    "jp": "2017年9月12日",
+    "kr": "2017년 9월 12일"
+  },
+  "December 7, 2017": {
+    "cn": "2017年12月7日",
+    "en": "",
+    "jp": "2017年12月7日",
+    "kr": "2017년 12월 7일"
+  },
+  "December 12, 2017": {
+    "cn": "2017年12月12日",
+    "en": "",
+    "jp": "2017年12月12日",
+    "kr": "2017년 12월 12일"
+  },
+  "January 3, 2018": {
+    "cn": "2018年1月3日",
+    "en": "",
+    "jp": "2018年1月3日",
+    "kr": "2018년 1월 3일"
+  },
+  "Feburary, 2018": {
+    "cn": "2018年2月",
+    "en": "",
+    "jp": "2018年2月",
+    "kr": "2018년 2월"
+  },
+  "April 4, 2018": {
+    "cn": "2018年4月4日",
+    "en": "",
+    "jp": "2018年4月4日",
+    "kr": "2018년 4월 4일(예정)"
+  },
+  "April 14, 2018": {
+    "cn": "2018年4月14日",
+    "en": "",
+    "jp": "2018年4月14日",
+    "kr": "2018년 4월 14일(예정)"
+  },
+  "July 1, 2018": {
+    "cn": "2018年7月1日",
+    "en": "",
+    "jp": "2018年7月1日",
+    "kr": "2018년 7월 1일(예정)"
+  },
+  "Roadmap": {
+    "cn": "路线图",
+    "en": "",
+    "jp": "ロードマップ",
+    "kr": "로드맵"
+  },
+  "Jeff Garzik": {
+    "cn": "Jeff Garzik",
+    "en": "",
+    "jp": "ジェフ　ガルジック",
+    "kr": "제프 가루짓쿠"
+  },
+  "SongXiu Hua": {
+    "cn": "花松秀",
+    "en": "",
+    "jp": "ソンシウ　ファ",
+    "kr": "제프 가루짓쿠"
+  },
+  "Board Member": {
+    "cn": "董事会成员",
+    "en": "",
+    "jp": "役員",
+    "kr": "임원"
+  },
+  "Chief Strategy Officer": {
+    "cn": "首席策略官",
+    "en": "",
+    "jp": "最高戦略責任者",
+    "kr": "최고 전략 책임자"
+  },
+  "Executive Director": {
+    "cn": "执行官",
+    "en": "",
+    "jp": "取締役",
+    "kr": "전무 이사"
+  },
+  "Foundation": {
+    "cn": "基金董事会",
+    "en": "",
+    "jp": "ファンデーション",
+    "kr": "파운데이션"
+  },
+  "Join us": {
+    "cn": "加入我们",
+    "en": "",
+    "jp": "私達に加入",
+    "kr": "우리에 가입"
+  },
+  "Linking values": {
+    "cn": "链接价值",
+    "en": "",
+    "jp": "価値のつながり",
+    "kr": "값 연결하기"
+  },
+  "Serving the world!": {
+    "cn": "服务社会",
+    "en": "",
+    "jp": "世界に役に立つ",
+    "kr": "세계에 도움"
+  },
+  "Phase 2 distribution of UBTC will take place at block height": {
+    "cn": "第二阶段UBTC发放将在Bitcoin区块高度[$1]",
+    "en": "Phase 2 distribution of UBTC will take place at block height[$1]",
+    "jp": "UBTCのフェース2配布はブロックの高さ[$1]で行われます",
+    "kr": "UBTC의 2 단계 분포는 블록의 높이에서 이루어집니다"
+  },
+  "UnitedBitcoin upgrades Bitcoin through Smart Contract Implementation": {
+    "cn": "比特联储通过智能合约实现比特币的升级",
+    "en": "",
+    "jp": "ユナイテッドビットコイン、スマート契約導入によるビットコインのアップグレード",
+    "kr": "유나이티드비트코인팀, 스마트 컨트랙트 개발 착수, 똑똑한 계약 실행을 통해 11:52 AM 3/1/2018 업그레이드."
+  },
+  "Same Proof of Work and Issuance Model of Bitcoin, with new hi-speed smart contracts": {
+    "cn": "与比特币保持相同的PoW和发布模型，增加新的高速智能合约",
+    "en": "",
+    "jp": "同一のビットコインの作業と発行モデルの証明及新しいハイスピードスマート契約を持",
+    "kr": "비트코인과Proof of Work 및 발행 모델은 동일하면서 새로운 가속 똑똑계약 기능 추가"
+  },
+  "Future Lightning Network support for faster and cheaper transactions": {
+    "cn": "未来闪电网络支持快速和便宜的交易",
+    "en": "",
+    "jp": "迅速で安価なトランザクションのための将来のライトニングネットワークのサポート",
+    "kr": "보다 신속한 저비용 거래를 지원하는 미래 번개 네트워크 지원"
+  },
+  "UnitedBitcoin (UBTC) will be allocated to active Bitcoin wallets at a rate of 1 BTC to 1 UBTC at time of fork": {
+    "cn": "分叉时，活跃的比特币钱包将按照1:1获得相等数量的比特联储（UBTC）",
+    "en": "",
+    "jp": "フォーク時点で1 BTC：1 UBTC割合で活性ビットコインの財布にユナイテッドビットコイン（UBTC）の割り当て",
+    "kr": "포크 시점에 1 BTC : 1 UBTC 비율로 활성 비트코인 지갑에 유나이티드비트코인 (UBTC) 할당"
+  },
+  "No pre-mining, stable system with fiat currency pegged reserves": {
+    "cn": "无预挖，锚定法币的恒值货币系统",
+    "en": "",
+    "jp": "準マイニング作業がなく、安定なシステムにペッグしたフラット通貨が確保される",
+    "kr": "준 마이닝 작업없이 안정적인 시스템에 페그 된 플랫 통화가 확보된다"
+  },
+  "Building on Bitcoin’s Strong Foundations": {
+    "cn": "建立在比特币的强大基础上",
+    "en": "",
+    "jp": "ビットコインの強い基礎にて造設する",
+    "kr": "비트코인의 강한 기초로 증설하기"
+  },
+  "Original PoW mechanism, UTXO model and blockchain inheritance": {
+    "cn": "继承比特币的PoW机制，UTXO模式和区块链",
+    "en": "",
+    "jp": "オリジナルのPoWメカニズム、UTXOモデルとブロックチェーンの継承",
+    "kr": "원래 PoW 메커니즘 UTXO 모델과 블록 체인의 상속"
+  },
+  "1:1 Asset allocation to active addresses, same block-time, halving-time and total cap. no pre-mine.": {
+    "cn": "活跃的比特币地址将1:1获得相等数量的UBTC，出块时间、减半时间和总量与比特币保持相同，无预挖",
+    "en": "",
+    "jp": "1：1アクティブアドレスへの資産配分、同じブロック時間、半減時間、合計上限。事前マイニングはありません",
+    "kr": "1 : 1 활성 주소로 자산 배분 같은 블록 시간 반 시간 총 상한. 사전 마이닝은 없습니다"
+  },
+  "Greatly enhances scalability by introducing payment channels between users.": {
+    "cn": "通过在用户之间引入支付渠道，大大提高了可伸缩性。",
+    "en": "",
+    "jp": "ユーザー間に決済チャネルを導入することで拡張性を大幅に向上",
+    "kr": "사용자간에 지불 채널을 도입하여 확장 성을 크게 향상시킵니다"
+  },
+  "Greatly increases transaction speed by increasing the block-size to 8 MB and supporting SegWit": {
+    "cn": "通过将区块大小增加到8 MB并支持隔离见证，大大增加了交易速度",
+    "en": "",
+    "jp": "ブロックサイズを8 MBに増やし、SegWitをサポートすることでトランザクション速度を大幅に向上",
+    "kr": "블록 크기를 8MB로 늘리고 SegWit을 지원하여 트랜잭션 속도를 대폭 향상시킵니다"
+  },
+  "UnitedBitcoin adds smart contract capabilities along with other upgrades to greatly increase the utility and potential of Bitcoin.": {
+    "cn": "比特联储增加了智能合约能力和其他升级，极大地增加了比特币的效用和潜力。",
+    "en": "",
+    "jp": "ユナイテッドビットコインは、他のアップグレードと一緒にスマート契約機能を追加し、ビットコインの実用性と潜在性を大幅に向上させます",
+    "kr": "유나이티드 비트코인은 다른 업그레이드와 함께 스마트 계약 기능을 추가하고 비트코인의 실용성과 잠재력을 크게 향상시킵니다"
+  },
+  "The UB Foundation will manage funds from inactive wallets post fork and foster the ecosystem with them. It will also develop a cryptoasset – pegged to UB’s reserve – against fiat currencies to support projects worldwide.": {
+    "cn": "UB基金会将管理来自非活跃钱包的资产，并使用它们建立生态系统。基金会还将使用储备资金开发一种锚定法币的加密资产，以支持全球其他优质的区块链项目。",
+    "en": "",
+    "jp": "UB財団は、ポストフォークを使用していない財布の資金を管理し、エコシステムを育成します。 また、世界中のプロジェクトを支援するために、UBの準備金に固定されている暗号化された通貨に対する暗号資産を開発する予定です",
+    "kr": "UB 재단은 포스트 포크를 사용하지 않는 지갑 자금을 관리하고 생태계를 육성합니다. 또한 전세계의 프로젝트를 지원하기 위해 UB의 준비금에 고정되어있는 암호화 된 통화에 대한 암호화 자산을 개발할 예정입니다"
+  },
+  "UnitedBitcoin team starts the development of smart contracts": {
+    "cn": "团队启动智能合约开发",
+    "en": "",
+    "jp": "ユナイテッドビットコインチームがスマート契約の開発を開始",
+    "kr": "유나이티드비트코인팀, 스마트 컨트랙트 개발 착수."
+  },
+  "The core members of UnitedBitcoin’s development team start the development of LUA based smart contracts.": {
+    "cn": "团队核心成员启动了基于LUA改造的智能合约版本的技术研发",
+    "en": "",
+    "jp": "ユナイテッドビットコインの開発チームの中核メンバーは、LUAベースのスマートコントラクトの開発を開始します",
+    "kr": "유나이티드 비트코인의 개발 팀의 핵심 멤버는 LUA 기반 스마트 계약의 개발을 시작합니다."
+  },
+  "The first UVM smart contract is fully tested": {
+    "cn": "UVM智能合约第一次全面测试通过",
+    "en": "",
+    "jp": "ユナイテッドビットコインの開発チームの中核メンバーは、LUAベースのスマートコントラクトの開発を開始します",
+    "kr": "첫 번째 UVM 스마트 계약은 완전히 테스트되고 있습니다."
+  },
+  "Smart Contract and UVM functionality has been successfully tested. Two languages, similar in structure and syntax to C# and JAVA have been added as well.": {
+    "cn": "基本完成UVM虚拟机的智能合约功能，期间还研发了c#和java语法风格的二级语言 ",
+    "en": "",
+    "jp": "スマート契約とUVM機能が正常にテストされました。 C＃とJAVAの構造と構文に似ている2つの言語も追加されています",
+    "kr": "스마트 계약 및 UVM 기능이 성공적으로 테스트되었습니다. C #과 JAVA의 구조와 구문을 닮은 2 개의 언어도 추가되어 있습니다"
+  },
+  "Beta test of version 0.1 of UnitedBitcoin (8MB + SegWit)": {
+    "cn": "0.1版本（8MB+隔离见证）内测 ",
+    "en": "",
+    "jp": "ユナイテッドビットコイン（8MB + セグウィット）バージョン0.1のベータテスト",
+    "kr": "유나이티드비트코인 (8MB + SegWit) 0.1 버전 베타 테스트"
+  },
+  "To speed up testing and facilitate acilitating adoption, smart contracts have been excluded from this test. Testing the increased block-size (to 8MB) as well as SegWit was a success.": {
+    "cn": "考虑到测试时间的紧迫，这个版本暂时没有将智能合约纳入范畴，成功测试增加8M块大小以及隔离见证。",
+    "en": "",
+    "jp": "テストをスピードアップし、採用を促進するために、スマート契約はこのテストから除外されています。 ブロックサイズの増加（8MBまで）とセグウィットのテストは成功しました",
+    "kr": "테스트를 가속화하고 채용을 촉진하기 위해 스마트 계약은이 테스트에서 제외되어 있습니다. 세구위토뿐만 증가 된 블록 크기 (8MB까지)를 테스트하는 것은 성공적이었습니다다."
+  },
+  "Version 0.5 of the wallet officially migrated to GitHub": {
+    "cn": "0.5钱包版本正式迁移到Github",
+    "en": "",
+    "jp": "ウォレットのバージョン0.5が正式にGitHubに移行されました",
+    "kr": "지갑 버전 0.5이 공식적으로 GitHub로 이동되었습니다."
+  },
+  "The wallet with automated upgrade program is officially migrated to GitHub and all source codes are open to public, more teams around the world joined UB.": {
+    "cn": "包含全自动升级方案的钱包正式迁移到GitHub并公开所有源代码，全球更多团队加入UB",
+    "en": "",
+    "jp": "自動アップグレードプログラムを使用したウォレットは正式にGitHubに移行され、すべてのソースコードが公開され、世界中の多くのチームがUBに加わりました",
+    "kr": "자동 업그레이드 프로그램이 포함 된 지갑은 공식적으로 GitHub으로 마이그레이션되며 모든 소스 코드는 공개됩니다 전세계의 많은 팀이 UB에 참가했습니다."
+  },
+  "Fork is executed and UnitedBitcoin is launched globally": {
+    "cn": "2017年12月12日UBTC正式分叉，全球正式发布",
+    "en": "",
+    "jp": "フォークが実行され、ユナイテッドビットコインがグローバルラウンチされました",
+    "kr": "포크가 처형 됨 유나이티드비트코인이 글로벌 론칭되었습니다."
+  },
+  "The fork will happen on December 12, 2017 with UnitedBitcoin officially released and launched globally during an event in Silicon Valley.": {
+    "cn": "2017年12月12日，UB基金会将在美国硅谷全球直播，正式发布并直播UBTC分叉的进行",
+    "en": "",
+    "jp": "フォークは2017年12月12日に開催され、ユナイテッドビットコインはシリコンバレーのイベントで正式にリリースされ、グローバルにラウンチされます",
+    "kr": "포크는 2017 년 12 월 12 일 실리콘 밸리에서 개최 된 행사에서 유나이티드비트코인이 공식적으로 출시되어 전세계에 출시되면서 진행될 예정입니다"
+  },
+  "The second phase of Asset Allocation is completed": {
+    "cn": "完成第二阶段的UBTC资产发放",
+    "en": "",
+    "jp": "資産配分の第2段階が完了しました",
+    "kr": "자산 배분의 제 2 단계가 완료되었습니다"
+  },
+  "The manual allocation of assets is completed on January 3, 2018 (started on December 12, 2017), marking an end to the 2nd phase of the Bitcoin asset allocation procedure.": {
+    "cn": "完成2017年12月12日到2018年1月3日之间的比特币活跃地址快照，并完成所有第二阶段比特币用户的UBTC领取工作",
+    "en": "",
+    "jp": "資産の手動配分は、2018年1月3日（2017年12月12日開始）に完了し、Bitcoin資産配分手続きの第2段階が終了しました",
+    "kr": "자산의 수동 분배는 2018 년 1 월 3 일 (2017 년 12 월 12 일 시작)에 완료하고 비트코인 자산 배분 절차의 2 단계가 종료되었습니다."
+  },
+  "(Projected) Issuance of a digital currency pegged to fiat currencies": {
+    "cn": "(预计) 发行与法币挂钩的电子货币。",
+    "en": "",
+    "jp": "(予測) 認可された通貨に対してペッグしたデジタル通貨の発行",
+    "kr": "(예측) 허용 된 통화에 페그 된 디지털 통화의 발행"
+  },
+  "The UB foundation will issue it's first digital currency pegged to fiat currencies using UBTC as collateral": {
+    "cn": "UB基金会将会以UBTC做抵押发行其第一个与法定货币汇率挂钩的电子货币。",
+    "en": "",
+    "jp": "UBファウンデーションは、担保としてUBTCを使用して、認可された通貨に対してペッグした最初のデジタル通貨を発行する",
+    "kr": "UB 재단은 담보로 UBTC을 사용하여 허용 된 통화에 페그 된 최초의 디지털 화폐를 발행하는"
+  },
+  "(Projected) Upgrade UnitedBitcoin, add support for smart contracts": {
+    "cn": "(暂定) 升级带智能合约版本的比特联储",
+    "en": "",
+    "jp": "(企画) ユナイテッドビットコインをアップグレードし、スマート契約のサポートを追加",
+    "kr": "(기획) 유나이티드 비트 코인을 업그레이드하고 스마트 계약에 대한 지원을 추가"
+  },
+  "If there is no delay in testing, UnitedBitcoin will be officially upgraded to a version with smart contract support.": {
+    "cn": "如果测试没有延误，将会正式升级带智能合约版本的比特联储",
+    "en": "",
+    "jp": "テストに遅延のない限り、ユナイテッドビットコインはスマート契約サポートを持つバージョンに正式にアップグレードされます",
+    "kr": "테스트에 지연이없는 한 유나이티드 비트 코인은 스마트 계약 지원을 가지는 버전에 정식으로 업그레이드됩니다"
+  },
+  "(Projected) Transfer of all pegged currencies to smart contracts": {
+    "cn": "(暂定) 所有恒值货币从彩色币转移到智能合约",
+    "en": "",
+    "jp": "(企画) すべての固定通貨はスマートな契約への移転",
+    "kr": "(기획) 모든 고정통화는 똑똑한 계약에 이전"
+  },
+  "Because it is too complex for color coins to support smart contracts, in order to support the smart contracts for pegged currencies, all pegged currencies will be transferred to the smart contracts system.": {
+    "cn": "由于彩色币支持智能合约过于复杂，所以为了支持恒值货币的智能合约，所有恒值货币将被转移到智能合约体系。",
+    "en": "",
+    "jp": "カラーコインがスマート契約をサポートするにはあまりにも複雑であり、ペッグされた通貨のスマート契約をサポートするためには、すべてのペッグされた通貨はスマート契約システムに転送されます",
+    "kr": "컬러 동전 스마트 계약을 지원하기에 너무 복잡하고 페그 된 통화의 스마트 계약을 지원하기 위해 모든 페그 된 통화는 스마트 계약 시스템에 전송됩니다."
+  },
+  "(Projected) Upgrade UnitedBitcoin with Lightning Network support": {
+    "cn": "(暂定) 升级带有闪电网络的比特联储",
+    "en": "",
+    "jp": "(企画) ユナイテッドビットコインのアップグレードをライトニングネットワークでサポートする",
+    "kr": "(기획)번개 네트워크 지원으로 유나이티드비트코인의 업그레이 "
+  },
+  "If there is no delay in development, UnitedBitcoin will be upgraded to a version with Lightning Network and payment channels support.": {
+    "cn": "如果开发没有延误，比特联储将升级一个带有闪电网络和支付渠道的版本。",
+    "en": "",
+    "jp": "開発に遅延がない限り、ユナイテッドビットコインはライトニングネットワークと支払いチャネルをサポートするバージョンにアップグレードされます",
+    "kr": "개발 지연이없는 한 유나이티드 비트 코인은 라이트닝 네트워크 및 지불 채널을 지원하는 버전으로 업그레이드됩니다."
+  },
+  "Technical team": {
+    "cn": "技术团队",
+    "en": "",
+    "jp": "テクニカル　チーム",
+    "kr": "기술 팀"
+  },
+  "Matthew Roszak": {
+    "cn": "Matthew Roszak",
+    "en": "",
+    "jp": "マシュー　ロスザック",
+    "kr": "매튜 로스잣쿠 "
+  },
+  "Alex Yang": {
+    "cn": "Alex Yang",
+    "en": "",
+    "jp": "アレックス　ヤング",
+    "kr": "알렉스 영"
+  },
+  "Wouter van der Schagt": {
+    "cn": "Wouter van der Schagt",
+    "en": "",
+    "jp": "ワウト　ヴァン　デー　シャート",
+    "kr": "와우토 밴 데이 제게 행운이 따른"
+  },
+  "Chief Scientist": {
+    "cn": "首席科学家",
+    "en": "",
+    "jp": "チーフサイエンティスト",
+    "kr": "수석 과학자"
+  },
+  "Chief Operating Officer": {
+    "cn": "首席运营官",
+    "en": "",
+    "jp": "最高執行責任者",
+    "kr": "최고 운영 책임자"
+  },
+  "A futurist, entrepreneur and software engineer, Jeff is co-founder and CEO of Bloq, a leading blockchain technology company. Jeff is also the chief designer of Metronome.": {
+    "cn": "Jeff是一个未来主义者，企业家和软件工程师，他是领先的区块链科技公司Bloq的联合创始人和首席执行官以及Metronome的首席设计师。",
+    "en": "",
+    "jp": "フューチャリスト、起業家、及ソフトウェアエンジニアであるジェフは、ブロックチェーンテクノロジーのリーディングカンパニーであるBloqの共同創設者兼最高経営責任者です。 ジェフはメトロノームのチーフデザイナーでもあります",
+    "kr": "Jeff는 미래학자, 사업가, 소프트웨어 엔지니어이고, 블록체인 기술 선두기업인 Bloq의 설립자이자 CEO이며, Metronome의 수석 디자이너입니다"
+  },
+  "SongXiu is the founder and CEO of Bitbank Group. Founded in 2014, Bitbank.com is the one of the largest cryptocurrency P2P platforms in the world, managing over 260,000 BTC of investment and has distributed profits of over 7,400 BTC.": {
+    "cn": "花松秀是Bitbank集团的创始人兼首席执行官。Bitbank.com成立于2014年，是世界上最大的数字货币P2P平台之一，管理超过26万个比特币的投资，为用户发放超过7,400个比特币利息。",
+    "en": "",
+    "jp": "ソンシウは、ビットバンクグループの創設者兼CEOであり、 2014年に設立されたBitbank.comは世界最大の暗号化P2Pプラットフォームの1つです。投資額26万件を管理し、7,400件以上のBTCの利益を分配しています",
+    "kr": "SongXiu는 BitBank Group의 설립자이자 CEO입니다. 2014년 설립된 Bitbank.com은 전 세계의 대규모 가상 화폐 P2P 플랫폼 중 하나로서 260,000 BTC이상의 자산을 관리하고 있으며 7,400 BTC이상의 이윤분배 실적을 갖고 있습니다"
+  },
+  "Matthew is co-founder and chairman of Bloq, a leading blockchain technology company and a visionary of Metronome – a cryptocurrency engineered for longevity. Matthew is also founding partner of Tally Capital, a private investment firm focused on digital assets and blockchain-enabled technology with a portfolio of over 30 investments, including Blockstream, BTC Media, Civic, Doc.ai, Factom, Genaro, Orchid, Rivetz, Token Report and Qtum.": {
+    "cn": "Matthew是领先的区块链技术公司Bloq的联合创始人兼董事长以及数字货币Metronome的梦想家。Matthew也是Tally Capital的创始合伙人，Tally Capital是一家专注于数字资产和区块链技术的私人投资公司，已经投资了包括Blockstream、BTC Media、Civic、Doc.ai、Factom、Genaro、Orchid、Rivetz、Token Report和Qtum在内的30多家公司或机构。",
+    "en": "",
+    "jp": "マシューは、ブロックチェーンテクノロジー企業である、長期使用のために設計された暗号化技術の先見性を持つBloqの共同創設者兼会長であります。  マシューは、Blockstream、BTC Media、Civic、Doc.ai、Factom、Genaro、Orchid、Rivetz, Token Report, 及 Qtumなどの30を超える投資ポートフォリオを持つデジタルアセットとブロック チェーン対応の技術を扱う民間投資会社であるTally Capitalの創設パートナーです",
+    "kr": "Matthew는 블록체인 기술 선두기업인 Bloq의 공동 설립자이자 의장이며 장기 지속 가능하도록 엔지니어링 된 가상화폐 Metronome의 전략가이자 Tally Capital의 설립 파트너입니다. Tally Capital는 디지털 자산과 블록체인 기반 기술에 특화된 private investment firm으로써 Blockstream, BTC Media, Civic, Doc.ai, Factom, Genaro, Orchid, Rivetz, Token Report 및 Qtum 등 30개 이상의 투자 포트폴리오를 관리하고 있습니다"
+  },
+  "Alex is founder and CEO of FundV, a hedge fund focused on cryptoassets.Alex is also the co-founder of two TMT venture capital funds, Beam VC and CyberCarrier Capital, that invested in over 30 companies including Testbird, Aipai, Meike, LumiGame, Kadho, VivaVideo, Yalla, Boo!, Krazybee, Indialends, ZoomCar and Mydermacy.": {
+    "cn": "Alex是FundV的创始人和首席执行官，FundV是一家专注于加密资产的对冲基金。Alex还是Beam VC和CyberCarrier Capital两家TMT风险投资基金的联合创始人，该公司投资了Testbird、爱拍、Meike、LumiGame、Kadho、VivaVideo、Yalla、Boo！、Krazybee、Indialends、ZoomCar和Mydermacy等30多家公司。",
+    "en": "",
+    "jp": "Alexは、クリプトアセットに焦点を置いたヘッジファンドであるFundVの創設者兼CEOです。また、アレックスはTestbird、Aipai、Meike、LumiGame、Kadho、VivaVideo、Yalla、Boo！、Krazybee、Indialends、ZoomCar、 Mydermacy及その他を含む30以上の企業に投資している2つのTMTベンチャーキャピタルファンド、Beam VCおよびCyberCarrier Capitalの共同設立者です",
+    "kr": "Alex는 Testbird, Aipai, Meike, LumiGame, Kadho, VivaVideo, Yalla, Boo!, Krazybee, Indialends, ZoomCar 및 Mydermacy 등 30개 이상 기업에 투자한 두 TMT 벤쳐 캐피털 펀드 Beam VC 와 CyberCarrier Capital의 공동 설립자이기도 합니다"
+  },
+  "Wouter is founder and director of the online multi-currency wallet QoinPro, which currently supports over 1 million users. He has about 20 years of development, architectural and entrepreneurial experience, and is certified in multiple IT technologies. He has focused the last several years on cybersecurity, blockchain and cryptocurrencies.": {
+    "cn": "Wouter是在线多币种钱包QoinPro的创始人和总监，目前拥有超过100万的用户。他拥有大概20年的IT开发、架构和创业经验，并获得多项IT技术的认证。过去几年，他一直专注于网络安全、区块链和加密货币。",
+    "en": "",
+    "jp": "Wouterは100万人を超えるユーザーをサポートするオンラインマルチ通貨財布QoinProの創設者兼ディレクターであり、 彼は複数のIT技術の認定を受け約20年間の開発、構築、起業家経験を持っています。 そして、彼はここ数年をサイバーセキュリティ、ブロックチェーン、暗号化通信に集中してきました",
+    "kr": "Wouter는 현재 사용자가 만 명 이상인 온라인 복수화폐 지갑 QoinPro의 설립자이자 이사입니다. 그는 약 20년의 개발, 설계 (architectural) 및 사업 경력이 있고 다수의 IT 기술 자격증을 보유하고 있으며, 지난 수 년간 사이버보안, 블록체인 및 가상화폐에 집중해왔습니다"
+  },
+  "Wilson是光照资本的联合创始人，一家投资超过15家公司TMT风险投资基金，当中包括Testbird, 爱拍, 小影, Boo!, 美刻, LumiGame and Kadho. 在创业之前，Wilson在汇丰银行任职衍生产品交易员，协助银行及金融机构通过衍生产品进行避险和投机交易。Wilson是特许金融分析师，毕业于澳洲墨尔本大学经济暨商学院商科本科。": {
+    "cn": "",
+    "en": "Wilson is a co-founder of Beam VC, a TMT venture capital fund that invested in over 15 companies including Testbird, Aipai, VivaVideo, Boo!, Meike, LumiGame and Kadho.Before starting his own business, Wilson worked as dealer at HSBC, supported banks and financial institutions on speculative and hedging activities through futures and derivatives.",
+    "jp": "ウィルソンは、Testbird、Aipai、VivaVideo、Boo !, Meike、LumiGame、Kadhoなど15社以上に投資しているTMTベンチャーキャピタルファンドのBeam VCの共同設立者です。彼自身のビジネスを開始する前に、HSBCのディーラーとして働き、先物やデリバティブを通じて投機的およびヘッジ活動を銀行や金融機関に支援しました。ウィルソンはチャータード・ファイナンシャル・アナリストであり、メルボルン大学から商業学士号を取得しています。",
+    "kr": "윌슨은 Beam VC의 공동 설립자 입니다. Beam VC는 Testbird, Aipai, VivaVideo, Boo!, Meike, LumiGame 및 Kadho를 포함한 15개 이상의 회사에 투자하였습니다.그는 그의 커리어를 시작하기 전에, HSBC의 딜러로 일했고, 선물 및 파생 상품을 통해 투기 및 헷지 활동에 대한 은행 및 금융 기관에 일했습니다. 윌슨은 차트 기반의 분석가이며 그는 맬버른 대학교에서 상업 학사 학위를 취득했습니다"
+  },
+  "Wilson Choi": {
+    "cn": "",
+    "en": "",
+    "jp": "ウィルソン チョイ",
+    "kr": "윌슨 최 "
+  },
+  "Wallet": {
+    "cn": "钱包",
+    "en": "",
+    "jp": "財布",
+    "kr": "지갑"
+  },
+  "UnitedBitcoin comes with 8MB block sizes, SegWit support, Asset Verification Allocation, Replay Protection, upcoming smart contract support and Lightning Network implementation. Download our wallet here.": {
+    "cn": "比特联储支持8MB区块容量、隔离见证、资产验证配置、重放保护、即将支持智能合约和实现闪电网络。点击这里下载我们的钱包。",
+    "en": "",
+    "jp": "ユナイテッドビットコインには、8MBのブロックサイズ、セグウィットサポート、アセット検証アロケーション、リプレイ保護、今後のスマートな契約サポート、ライトニングネットワークの実装が付属しています。 ここで私たちの財布をダウンロードしてください",
+    "kr": "유나이티드비트코인은 8MB 블록 크기, SegWit 지원, 자산 확인 할당, 재생 보호, 다가오는 스마트 계약 지원과라이트닝 네트워크의 구현이 포함되어 있습니다. 여기에 우리의 지갑을 다운로드하십시오"
+  },
+  "Development tool": {
+    "cn": "开发工具",
+    "en": "",
+    "jp": "開発ツール",
+    "kr": "개발 도구"
+  },
+  "UnitedBitcoin has developed an Integrated Development Environment specifically for creating smart-contracts. To read more, click here.": {
+    "cn": "比特联储开发了一个专门用于创建智能合约的集成开发环境。请点击这里了解更多信息。",
+    "en": "",
+    "jp": "ユナイテッドビットコインは、特にスマート契約を作成するための統合開発環境を開発しました。 もっと読むには、ここをクリックしてください",
+    "kr": "유나이티드비트코인은 특히 스마트 계약을 작성하기위한 통합 개발 환경을 개발했습니다. 더 읽기는 여기를 클릭하십시오"
+  },
+  "For a complete breakdown of UnitedBitcoin’s features, advantages and latest enhancements, please refer to our white paper.": {
+    "cn": "关于比特联储的特性、优点和最新的改进，请参考我们的白皮书。",
+    "en": "",
+    "jp": "ユナイテッドビトコンの機能、特徴、最新の機能強化の完全な内訳については、白書をご覧ください",
+    "kr": "유나이티드비트코인 의  특징,  장점 및 최신향상된 기능 내용은 백서를 참조하십시오"
+  },
+  "Latest news": {
+    "cn": "最新动态",
+    "en": "",
+    "jp": "ニュース",
+    "kr": "최신정보"
+  },
+  "Published on": {
+    "cn": "发表于",
+    "en": "",
+    "jp": "公開日",
+    "kr": "공개 일"
+  },
+  "DOWNLOAD": {
+    "cn": "下载",
+    "en": "",
+    "jp": "ダウンロード",
+    "kr": "다운로드"
+  },
+  "Partner": {
+    "cn": "合作伙伴",
+    "en": "",
+    "jp": "パートナー",
+    "kr": "파트너"
+  },
+  "About UB": {
+    "cn": "关于UB",
+    "en": "",
+    "jp": "UBについて",
+    "kr": "UB 대해"
+  },
+  "About Smart Contracts UVM": {
+    "cn": "关于合约虚拟机",
+    "en": "",
+    "jp": "スマート契約UVMについて",
+    "kr": "스마트 계약 UVM 대해"
+  },
+  "8 MB block-size with SegWit support": {
+    "cn": "8M区块容量+ 隔离见证",
+    "en": "",
+    "jp": "８MBブロックサイズとセグウィットサポート",
+    "kr": "8MB 블록 크기와 SegWit 지원"
+  },
+  "Source Code": {
+    "cn": "源代码",
+    "en": "",
+    "jp": "ソースコード",
+    "kr": "소스 코드"
+  },
+  "Contact": {
+    "cn": "联系",
+    "en": "",
+    "jp": "コンタクト",
+    "kr": "접촉"
+  },
+  "We welcome business cooperation, contact us now!": {
+    "cn": "我们欢迎商业合作，现在联系我们吧！",
+    "en": "",
+    "jp": "私たちはビジネス協力を歓迎し、今私達に連絡",
+    "kr": "우리는 사업 협력을 환영, 지금 문의"
+  },
+  "Claim UBTC here": {
+    "cn": "认领UBTC",
+    "en": "",
+    "jp": "UBTCの請求はこちら",
+    "kr": "UBTC 주장하기"
+  },
+  "Join us, and let's create a new world together.": {
+    "cn": "加入我们，一起改变世界吧！",
+    "en": "",
+    "jp": "私たちに参加し、共に新しい世界を作りましょう",
+    "kr": "우리와 함께하십시오,우리와 함께하고 함께 새로운 세상을 만듭시다"
+  },
+  "Explorer": {
+    "cn": "区块浏览器",
+    "en": "Explorer",
+    "jp": "ブロックブラウザ",
+    "kr": "블록브라우저"
+  },
+  "If you have any questions, would like to be involved in the project, become a partner or simply have a suggestion then please send us a message using the form below. We shall respond within 3 business days.": {
+    "cn": "如果您有任何问题，无论是希望参与到项目中，还是成为合作伙伴，或者是简单提出建议，请使用下面的表格给我们发送信息。我们将在3个工作日内答复您。",
+    "en": "",
+    "jp": "ご不明な点がございましたら、プロジェクトに参加したい、パートナーになる、あるいは提案をいただきたい場合は、以下のフォームを使用してメッセージをお送りください。 3営業日以内に返答いたします",
+    "kr": "문의 사항이 있거나 프로젝트에 참여하고 싶거나 파트너가되거나 단순히 제안이있을 경우 아래 양식을 사용하여 메시지를 보내주십시오. 영업일 기준 3 일 이내에 응답 해드립니다."
+  },
+  "Contact Form": {
+    "cn": "联系方式",
+    "en": "",
+    "jp": "お問い合わせフォーム",
+    "kr": "문의 양식"
+  },
+  "Name": {
+    "cn": "姓名",
+    "en": "",
+    "jp": "名前",
+    "kr": "이름"
+  },
+  "Email": {
+    "cn": "邮箱",
+    "en": "",
+    "jp": "Eメール",
+    "kr": "이메일"
+  },
+  "Phone": {
+    "cn": "手机号码",
+    "en": "",
+    "jp": "電話番号",
+    "kr": "전화 번호"
+  },
+  "Comments": {
+    "cn": "备注",
+    "en": "",
+    "jp": "意見",
+    "kr": "코멘트"
+  },
+  "Submit": {
+    "cn": "提交",
+    "en": "",
+    "jp": "提出する",
+    "kr": "제출"
+  },
+  "At UnitedBitcoin, we do everything we can to build an exceptional team. If you think you are the same kind of person as we are, welcome to join us to build your career, we will work together to change the world.": {
+    "cn": "在UnitedBitcoin，我们正在打造一支优秀的团队，如果我们志同道合，欢迎加入我们的事业，我们将共同努力改变世界！",
+    "en": "",
+    "jp": "ユナイテッドビットコインでは、優れたチームを築く為に出来ることは全て行う。貴方も私達と同じ種類の人だと思うなら、一緒にキャリアを築くことを歓迎します。我々は世界を変える為に働きましょう。",
+    "kr": "유나이티드비트코인에서는 뛰어난 팀을 구축 위해 할 수있는 일은 모두한다. 당신도 우리와 같은 종류의 사람이라고 생각한다면, 함께 경력을 쌓는 것을 환영합니다. 우리는 세상을 바꿀 위해 일합시다"
+  },
+  "If you think you would be a good fit to join us on this project and want to build your career, then get in touch and together we can change the world.": {
+    "cn": "如果你觉得你适合这个项目，并且想建立你的事业，现在就联系我们，我们一起改变世界！",
+    "en": "",
+    "jp": "あなたがこのプロジェクトに参加して、あなたのキャリアを築きたいと思ったら、連絡し合いながら世界を変えることができます",
+    "kr": "만약 당신이이 프로젝트에 우리와 함께하고 당신의 경력을 쌓고 싶다면, 연락을하고 함께하면 우리는 세상을 바꿀 수 있습니다"
+  },
+  "C/C++ programmer": {
+    "cn": "C/C++程序员",
+    "en": "",
+    "jp": "C/C++プログラマ",
+    "kr": "C / C ++ 프로그래밍"
+  },
+  "Go Language engineer": {
+    "cn": "Go语言工程师",
+    "en": "",
+    "jp": "Go言語エンジニア",
+    "kr": "Go 언어 엔지니어"
+  },
+  "Engineer with language development capabilities": {
+    "cn": "语言开发工程师",
+    "en": "",
+    "jp": "言語開発能力を持つエンジンニア",
+    "kr": "언어 개발 능력을 가진 엔진 니아"
+  },
+  "IDE development engineer": {
+    "cn": "IDE开发工程师",
+    "en": "",
+    "jp": "IDE開発エンジンニア",
+    "kr": "IDE 개발 엔진 니아"
+  },
+  "DB expert": {
+    "cn": "数据专家",
+    "en": "",
+    "jp": "DB 専門家",
+    "kr": "DB 전문가"
+  },
+  "Regional Operations CEO": {
+    "cn": "区域操作CEO",
+    "en": "",
+    "jp": "地域事業統括役員",
+    "kr": "지역 사업 총괄 임원"
+  },
+  "If you have any cooperation proposals, you are welcome to contact us so we may discuss your proposals further.": {
+    "cn": "如果您有任何合作建议，欢迎与我们联系，我们将进一步讨论您的建议。",
+    "en": "",
+    "jp": "協力提案があれば、私たちに連絡して下さい",
+    "kr": "협조 제안이있는 경우 저희에게 연락하여 제안 사항을 더 논의 할 수 있습니다"
+  },
+  "Title": {
+    "cn": "标题",
+    "en": "",
+    "jp": "職名",
+    "kr": "직위"
+  },
+  "Claim UBTC": {
+    "cn": "认领UBTC",
+    "en": "",
+    "jp": "UBTCを請求する",
+    "kr": "UBTC 주장"
+  },
+  "Please complete the fields and once your transaction is verified we shall credit you with UBTC.": {
+    "cn": "请完整填写以下表格，一旦您的交易得到验证，我们将为您发放UBTC。",
+    "en": "",
+    "jp": "フィールドを入力してください, 取引が確認されたら私たちはあなたにUBTCをクレジットします",
+    "kr": "입력란을 작성하십시오, 거래가 확인되면우리는 당신에게 UBTC를 신용합니다"
+  },
+  "TXID Submission Form": {
+    "cn": "交易ID提交表格",
+    "en": "",
+    "jp": "TXID提出書式",
+    "kr": "TXID 제출 양식"
+  },
+  "TXID": {
+    "cn": "交易ID",
+    "en": "",
+    "jp": "トランザクションID",
+    "kr": "거래 ID"
+  },
+  "QT Wallet": {
+    "cn": "QT钱包",
+    "en": "",
+    "jp": "QT 財布",
+    "kr": "QT 지갑"
+  },
+  "QT Wallet is one of the earliest Bitcoin wallets developed based on Core's core in association with QT's UI, currently UnitedBitcoin only provides QT version wallet as follows:": {
+    "cn": "QT钱包是最早的比特币钱包之一，它基于Core的核心与QT的用户界面相结合开发而成的。目前，UnitedBitcoin 只提供以下QT版钱包：",
+    "en": "",
+    "jp": "QT 財布は、QTのUIに関連してコアのコアをベースに開発された最古のビットコインウォレットの1つです。現在、ユナイテッドビットコインは次のようにQTバージョンのウォレットを提供しています。",
+    "kr": "QT 지갑은 QT의 UI와 관련하여 Core의 코어를 기반으로 개발 된 가장 초기의 비트코인 지갑 중 하나입니다 현재 유나이티드비트코인은 다음과 같이 QT 버전 지갑만을 제공합니다."
+  },
+  "The current first version of UnitedBitcoin Wallet, inherited from core, with features of SegWit and 8M scalability, can be used for execution of fork phase, mining, exchanges and individuals, with data retained of more than 200G before fork as well as data newly generated thereafter.": {
+    "cn": "当前UnitedBitcoin的第一个钱包版本，继承自core，带有隔离见证以及8M的扩容特性，可以用于分叉阶段的执行、挖矿、交易平台以及个人，数据保留了分叉前的200多G，以及后续新产生的数据。",
+    "en": "",
+    "jp": "セグウィットと8Mスケーラビリティの機能を備えたコアから継承された現在の最初のバージョンのユナイテッドビットコインウォレットは、フォークフェーズ、マイニング、エクスチェンジおよび個人の実行に使用でき、フォーク前に新しく生成されたデータの保持は200Gを超えます。",
+    "kr": "현재 SegWit 및 8M 확장 성 기능을 갖춘 코어에서 상속받은 유나이티드비트코인 지갑의 첫 번째 버전은 포크 단계 이전에 200G 이상 유지 된 데이터와 새로 생성 된 데이터로 포크 단계, 광업, 교환 및 개인의 실행에 사용될 수 있습니다."
+  },
+  "The current core compiling and upgrade are consistent with that of the original Bitcoin core.": {
+    "cn": "目前Core的编译、升级参见原比特币core一致的方式进行。",
+    "en": "",
+    "jp": "現在のコアのコンパイルとアップグレードは、元のビットコインコアのものと一貫しています。",
+    "kr": "현 코어 컴파일링 및 업그레이드는 오리지널 비트코인 코어와 일관된합니다."
+  },
+  "A lightweight wallet based on SPV will be released soon.": {
+    "cn": "一个基于SPV的轻钱包将很快发布。",
+    "en": "",
+    "jp": "SPVに基づく軽量ウォレットは間も無くリリースされる予定です。",
+    "kr": "SPV에 기반한 경량 지갑이 곧 출시될 것입니다."
+  },
+  "联系我们的说明文字": {
+    "cn": "如果你有什么疑问，或者是想加入这个项目，或者是想成为我们的合作伙伴，请发邮件到<a href='mailto:support@ub.com'>support@ub.com</a>，我们会在3个工作日内回复。",
+    "en": "If you have any questions, would like to be involved in the project, become a partner or simply have a suggest then please send us a message to <a href='mailto:support@ub.com'>support@ub.com</a>. We shall respond within 3 business days.",
+    "jp": "ご不明な点、プロジェクトに参加希望、パートナー希望、または提案に興味がある方はsupport@ub.comまでお問い合わせください。 3営業日以内に返答いたします。",
+    "kr": "문의 사항 프로젝트에 참가를 희망 파트너 희망, 또는 제안에 관심이있는 분은 support@ub.com 문의하십시오. 3 영업일 이내에 응답합니다"
+  },
+  "Core": {
+    "cn": "源码",
+    "en": "",
+    "jp": "コア",
+    "kr": "핵심"
+  },
+  "APP": {
+    "cn": "",
+    "en": "",
+    "jp": "アプリ",
+    "kr": "앱"
+  },
+  "钱包使用教程": {
+    "cn": "钱包使用教程",
+    "en": "Wallet use tutorial",
+    "jp": "財布を使う",
+    "kr": "지갑 사용 강좌"
+  },
+  "登录": {
+    "cn": "",
+    "en": "Sign in",
+    "jp": "ログイン",
+    "kr": "로그인"
+  },
+  "注册": {
+    "cn": "",
+    "en": "Sign up",
+    "jp": "登録",
+    "kr": "등록"
+  },
+  "退出登录": {
+    "cn": "",
+    "en": "Sign Out",
+    "jp": "ログオフ",
+    "kr": "로그 오프"
+  },
+  "会员登录": {
+    "cn": "",
+    "en": "Sign in",
+    "jp": "ログイン",
+    "kr": "로그인"
+  },
+  "邮箱": {
+    "cn": "",
+    "en": "Email",
+    "jp": "電子メール",
+    "kr": "이메일"
+  },
+  "密码": {
+    "cn": "",
+    "en": "Password",
+    "jp": "パスワード",
+    "kr": "비밀번호"
+  },
+  "忘记密码？": {
+    "cn": "",
+    "en": "Forgot Password?",
+    "jp": "パスワードをお忘れですか",
+    "kr": "암호를 잊으셨습니까"
+  },
+  "还不是会员？": {
+    "cn": "",
+    "en": "Don’t have an account? ",
+    "jp": "アカウントがありませんか ",
+    "kr": "계정이 없습니까? "
+  },
+  "立即注册": {
+    "cn": "",
+    "en": " Register Now",
+    "jp": "今すぐ登録",
+    "kr": "지금 등록"
+  },
+  "注册会员": {
+    "cn": "",
+    "en": "Registration",
+    "jp": "会員登録",
+    "kr": "회원 가입하기"
+  },
+  "姓": {
+    "cn": "",
+    "en": "Family Name",
+    "jp": "苗字",
+    "kr": "성"
+  },
+  "名": {
+    "cn": "",
+    "en": "Given Name",
+    "jp": "名",
+    "kr": "이름"
+  },
+  "确认密码": {
+    "cn": "",
+    "en": "Confirm Password",
+    "jp": "パスワードを認証する",
+    "kr": "비밀번호를 인증하기"
+  },
+  "手机": {
+    "cn": "",
+    "en": "Mobile",
+    "jp": "携帯電話",
+    "kr": "휴대 전화"
+  },
+  "出生日期": {
+    "cn": "",
+    "en": "Birthday",
+    "jp": "生年月日",
+    "kr": "생년월일"
+  },
+  "图形验证码": {
+    "cn": "",
+    "en": "CAPTCHA text",
+    "jp": "グラフィック認証コード",
+    "kr": "그래픽 인증 코드"
+  },
+  "下一步": {
+    "cn": "",
+    "en": "Next",
+    "jp": "次",
+    "kr": "다음"
+  },
+  "已注册？": {
+    "cn": "",
+    "en": "Already have an account? ",
+    "jp": "既にアカウントをお持ちですか？",
+    "kr": "이미 계정을 가지고 있습니까? "
+  },
+  "请输入您的登录邮箱和邮箱验证码，以便我们识别您的身份。": {
+    "cn": "",
+    "en": "Please enter your registered email address and verification code to reset your password",
+    "jp": "パスワードをリセットするには、登録されたメールアドレスと認証コードを入力してください",
+    "kr": "암호를 재설정하려면 등록 된 이메일 주소로 인증 코드를 입력하십시오"
+  },
+  "邮箱验证码": {
+    "cn": "",
+    "en": "Email Verification Code",
+    "jp": "メール確認コード",
+    "kr": "이메일 확인 코드"
+  },
+  "获取验证码": {
+    "cn": "",
+    "en": "Send Verification Code",
+    "jp": "認証コードを送信",
+    "kr": "인증 코드를 전송"
+  },
+  "新密码": {
+    "cn": "",
+    "en": "New Password",
+    "jp": "新しいパスワードを確認",
+    "kr": "새 암호"
+  },
+  "确认新密码": {
+    "cn": "",
+    "en": "Confirm New Password",
+    "jp": "新しいパスワードを確認",
+    "kr": "새 암호 확인"
+  },
+  "提交": {
+    "cn": "",
+    "en": "Submit",
+    "jp": "提出する",
+    "kr": "제출"
+  },
+  "返回登录": {
+    "cn": "",
+    "en": "Back to Log In",
+    "jp": "ログインに戻る",
+    "kr": "로그인으로 돌아 가기"
+  },
+  "找回登录密码": {
+    "cn": "",
+    "en": "Forgot Password",
+    "jp": "パスワードをお忘れですか",
+    "kr": "암호를 잊으셨습니까"
+  },
+  "以下表单均为必填项，请您如实填写。": {
+    "cn": "",
+    "en": "Please enter ALL fields below",
+    "jp": "下記のすべてのフィールドを入力してください",
+    "kr": "아래의 모든 필드를 입력하십시오"
+  },
+  "请选择您需要的服务": {
+    "cn": "请选择您的申领方式",
+    "en": "Please select your claiming method",
+    "jp": "請求方法をお選んで下さい",
+    "kr": "청구 방법을 선택하십시오"
+  },
+  "比特币(BTC)用户逾期领取UBTC申请": {
+    "cn": "比特币持有者在宽限期内申领UBTC",
+    "en": "Claim UBTC as BTC holders during the grace period",
+    "jp": "ビットコイン保有者は、猶予期間内にUBTCを請求します",
+    "kr": "비트코인 보유자는 유예 기간 내에 UBTC을 청구합니다"
+  },
+  "宽限期详情": {
+    "cn": "",
+    "en": "Grace Period Announcement",
+    "jp": "猶予期間のお知らせ",
+    "kr": "유예 기간 안내"
+  },
+  "其他社区虚拟币用户领取UBTC申请": {
+    "cn": "其他加密货币持有者申领UBTC",
+    "en": "Claim UBTC as other cryptocurrency holder",
+    "jp": "他のクリプト通貨保有者はUBTCを請求する",
+    "kr": "다른 스크립트 통화 소지자 UBTC 요청"
+  },
+  "即将推出，敬请期待": {
+    "cn": "",
+    "en": "Coming Soon",
+    "jp": "近日公開",
+    "kr": "곧 온다"
+  },
+  "请确认您于区块高度498777持有比特币": {
+    "cn": "",
+    "en": "Please confirm you held bitcoin(s) at block height 498,777",
+    "jp": "ブロックの高さ498,777でビットコインを保持していることを確認してください",
+    "kr": "블록의 높이 498,777 비트 코인을 보유하고 있는지 확인하십시오"
+  },
+  "是": {
+    "cn": "",
+    "en": "Yes",
+    "jp": "は",
+    "kr": "이"
+  },
+  "否": {
+    "cn": "",
+    "en": "No",
+    "jp": "いいえ",
+    "kr": "부정하다"
+  },
+  "很抱歉，您不符合UBTC申领资格。": {
+    "cn": "",
+    "en": "Sorry, you are not eligible for UBTC claim",
+    "jp": "申し訳ありませんが、あなたはUBTCの申し立て資格がありません",
+    "kr": "죄송합니다,하지만 당신은 UBTC의 신청 자격이 없습니다"
+  },
+  "请输入您个人钱包的比特币地址": {
+    "cn": "",
+    "en": "Please enter your Bitcoin address here",
+    "jp": "ビットコインアドレスをここに入力してください",
+    "kr": "비트 코인 주소를 여기에 입력하십시오."
+  },
+  "BTC地址": {
+    "cn": "",
+    "en": "BTC Address",
+    "jp": "BTCアドレス",
+    "kr": "BTC 주소"
+  },
+  "申领UBTC": {
+    "cn": "",
+    "en": "Claim UBTC",
+    "jp": "UBTCを申し立てる",
+    "kr": "UBTC 주장하기"
+  },
+  "UB已收到您的申请。": {
+    "cn": "",
+    "en": "We have received your claim application.",
+    "jp": "あなたの申し込みを受け取りました",
+    "kr": "당신의 신청하기을 받았습니다"
+  },
+  "您可以通过交易所购买持有UBTC，点此查阅UBTC已上线的交易所。感谢您的关注！": {
+    "cn": "您可以通过交易所购买持有UBTC，<a href='/project/ecosystem'>点此查阅</a>UBTC已上线的交易所。感谢您的关注！",
+    "en": "You can purchase UBTC at these <a href='/project/ecosystem'>exchanges</a>. Thank you for your support!",
+    "jp": "これらの<a href='/project/ecosystem'>取引所</a>でUBTCを購入することができます。ご支援ありがとうございました",
+    "kr": ""
+  },
+  "我们会尽快核对所有比特币地址，并于2月15日开始分发UBTC。我们会以邮件方式通知合资格申请者进行下一步操作，请留意您的注册邮箱。如有疑问，请发送邮件到support@ub.com。感谢您的耐心等候与关注！": {
+    "cn": "我们会尽快核对所有比特币地址，并于2月15日开始分发UBTC。我们会以邮件方式通知合资格申请者进行下一步操作，请留意您的注册邮箱。如有疑问，请发送邮件到<a href='mailto:support@ub.com'>support@ub.com</a>。感谢您的耐心等候与关注！",
+    "en": "We will reconcile all applications and start distributing UBTC on 15th Feb. Qualified applicants will be notified by email for next steps. Please check your emails regularly. You can contact <a href='mailto:support@ub.com'>support@ub.com</a> for any queries. Thank you for your patience and support",
+    "jp": "2月15日にすべてのビットコインのアドレスを確認して。UBTCの配布を開始します。資格のある応募者は、電子メールで次のステップが通知されます。あなたの電子メールを定期的に確認してください。質問は<a href='mailto:support@ub.com'>support@ub.com</a>にご連絡ください。忍耐とサポートをありがとうございます",
+    "kr": "2 월 15 일에 모든 비트 코인 주소를 확인하십시. UBTC의 배포를 시작합니다. 자격있는 지원자는 이메일로 다음 단계가 통지됩니다. 귀하의 이메일을 정기적으로 확인하십시오. 질문은 <a href='mailto:support@ub.com'>support@ub.com</a>로 연락 주시기 바랍니다. 인내와 지원을 고마워요 있습니다"
+  },
+  "重新获取": {
+    "cn": "",
+    "en": "Resend",
+    "jp": "再送する",
+    "kr": "재발송"
+  },
+  "一月": {
+    "cn": "",
+    "en": "January",
+    "jp": "",
+    "kr": ""
+  },
+  "二月": {
+    "cn": "",
+    "en": "February",
+    "jp": "",
+    "kr": ""
+  },
+  "三月": {
+    "cn": "",
+    "en": "March",
+    "jp": "",
+    "kr": ""
+  },
+  "四月": {
+    "cn": "",
+    "en": "April",
+    "jp": "",
+    "kr": ""
+  },
+  "五月": {
+    "cn": "",
+    "en": "May",
+    "jp": "",
+    "kr": ""
+  },
+  "六月": {
+    "cn": "",
+    "en": "June",
+    "jp": "",
+    "kr": ""
+  },
+  "七月": {
+    "cn": "",
+    "en": "July",
+    "jp": "",
+    "kr": ""
+  },
+  "八月": {
+    "cn": "",
+    "en": "August",
+    "jp": "",
+    "kr": ""
+  },
+  "九月": {
+    "cn": "",
+    "en": "September",
+    "jp": "",
+    "kr": ""
+  },
+  "十月": {
+    "cn": "",
+    "en": "October",
+    "jp": "",
+    "kr": ""
+  },
+  "十一月": {
+    "cn": "",
+    "en": "November",
+    "jp": "",
+    "kr": ""
+  },
+  "十二月": {
+    "cn": "",
+    "en": "December",
+    "jp": "",
+    "kr": ""
+  },
+  "完成": {
+    "cn": "",
+    "en": "Complete",
+    "jp": "完成",
+    "kr": "완성"
+  },
+
+  "继续申领": {
+    "cn": "",
+    "en": "Continue to claim",
+    "jp": "申し込みを続ける",
+    "kr": "계속 해서 신청하다"
+  },
+  "Download": {
+    "cn": "下载",
+    "en": "",
+    "jp": "ダウンロード",
+    "kr": "다운 로 드"
+  },
+  "Integrated Development Environment": {
+    "cn": "集成开发环境",
+    "en": "",
+    "jp": "統合開発環境",
+    "kr": "통합 개발 환경"
+  },
+  "Considering the difficulty of developing smart contracts, UnitedBitcoin will independently develop an Integrated Development Environment (IDE) that will be launched at the same time as when smart contracts are fully supported. The environment is a debugging environment for LUA which should make it much easier for developers to develop smart contracts.": {
+    "cn": "考虑到开发智能合约的难度，UnitedBitcoin将独立开发一个集成开发环境（IDE），并将在完全支持智能合约的时候推出。这个开发环境是LUA调试环境，因此开发人员可以更轻松地开发智能合约。",
+    "en": "",
+    "jp": "ユナイテッドビットコインは、スマートコントラクトの開発の難しさを考慮し、スマートコントラクトが完全にサポートされると同時に開始される統合開発環境（IDE）を独自に開発します。 環境はLUAのデバッグ環境であり、開発者がスマートなコントラクトを簡単に開発できるようにする必要があります。",
+    "kr": "스마트 컨트랙 개발의 어려움을 고려하여, UnitedBitcoin은 독자적으로 통합 개발 환경(IDE)을 개발하여 스마트 컨트랙 지원이 완성되는 시점에 동시에 런칭할 것입니다. 이는 LUA를 위한 디버깅 환경이며 개발자들의 스마트 컨트랙트 개발을 보다 수월하게 해줄 것입니다."
+  },
+  "In later stages, UnitedBitcoin’ s virtual machines will provide UVM opportunities to develop virtual languages that resemble the syntax structures of C#, Java and even EVM, which will allow a lot more developers to join in.": {
+    "cn": "在随后阶段，UnitedBitcoin的虚拟机将提供UVM机会去开发类似于C#、Java及EVM语法结构的虚拟语言，这将使得更多的开发人员加入进来。",
+    "en": "",
+    "jp": "後の段階で、ユナイテッドビットコインの仮想マシンは、C＃、Java、さらにはEVMの構文構造に似た仮想言語を開発するためのUVMの機会を提供し、より多くの開発者が参加できるようになります。",
+    "kr": "후반부에UnitedBitcoin의 가상 머신은C#, Java 및 심지어 EVM와 문법 구조가 유사한 가상 언어를 개발하기 위한 UVM기회를 제공할 것이며, 이로써 더욱 많은 개발자들이 참여할 수 있게 될 것입니다."
+  },
+  "In the future, plug-ins will also be developed for professional IDEs such as Eclips, Visual Studio, and so forth.": {
+    "cn": "未来，UnitedBitcoin还将为Eclips、Visual Studio等专业的集成开发环境开发插件。",
+    "en": "",
+    "jp": "将来的には、Eclips、Visual Studioなどのプロフェッショナル向けIDE用のプラグインも開発されます。",
+    "kr": "향후에는Eclips나 Visual Studio 등과 같은 전문적 IDE를 위한 플러그인도 개발될 것입니다."
+  },
+  "Exchanges": {
+    "cn": "交易平台",
+    "en": "",
+    "jp": "エクスチェンジ",
+    "kr": "거래소"
+  },
+  "Wallets/Full node": {
+    "cn": "钱包/全节点",
+    "en": "",
+    "jp": "ヲーレット・フルノード",
+    "kr": "지갑/ 풀 노드"
+  },
+  "Blockexplorers": {
+    "cn": "区块浏览器",
+    "en": "",
+    "jp": "ブロックエクスプローラ",
+    "kr": "블록 익스플로러"
+  },
+  "Pools": {
+    "cn": "矿池",
+    "en": "",
+    "jp": "プール",
+    "kr": "마이닝 풀"
+  },
+
+  "使用教程": {
+    "cn": "",
+    "en": "The tutorial",
+    "jp": "渡辺淳一",
+    "kr": "교과 과정"
+  },
+  "Grace Period": {
+    "cn": "宽限期",
+    "en": "",
+    "jp": "Grace Period",
+    "kr": "Grace Period"
+  },
+  "Community Airdrop": {
+    "cn": "社区发放",
+    "en": "",
+    "jp": "Community Airdrop",
+    "kr": "Community Airdrop"
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  },
+  "": {
+    "cn": "",
+    "en": "",
+    "jp": "",
+    "kr": ""
+  }
+}

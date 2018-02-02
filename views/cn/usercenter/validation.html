@@ -1,0 +1,46 @@
+<div class="user-center" id="validation_area">
+    <div class="container">
+        <h1><%- LANG('比特币(BTC)用户逾期领取UBTC申请') %></h1>
+        <div class="title" v-html="randomWord"></div>
+        <div class="btc-address"><span>BTC<%- LANG('地址') %>：</span>1Gp55PCWuNGXFwLqWQoSkiL325Ksj4rhuM</div>
+        <div class="button"><a href="confirmok" role="button"><%- LANG('完成') %></a></div>
+    </div>
+</div>
+<script>
+    var app = new Vue({
+        el: '#validation_area',
+        data: function () {
+            return {
+                randomBtc:""
+            }
+        },
+        computed : {
+            randomWord : function () {
+                return UB.L("为验证您的比特币地址，请从该地址转账X到以下BTC地址。完成后您可继续为另一个BTC地址申领UBTC或点击完成退出申领。", this.randomBtc);
+            }
+        },
+        methods : {
+
+
+        },
+        created : function () {
+        },
+
+        mounted : function () {
+           var tempRandomBtc = window.sessionStorage.getItem("randomBtc");
+           if(tempRandomBtc){
+               this.randomBtc =tempRandomBtc ;
+           }
+           else{
+
+           }
+        },
+        beforeCreate:function(){
+            if(!window.sessionStorage.getItem("mail"))
+            {
+                window.location="/user/login";
+            }
+
+        },
+    })
+</script>

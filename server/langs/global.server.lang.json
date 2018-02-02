@@ -1,0 +1,50 @@
+﻿{
+  "网站通用名称": {
+    "cn": "UnitedBitcoin",
+    "en": "UnitedBitcoin",
+    "jp": "UnitedBitcoin",
+    "kr": "UnitedBitcoin"
+  },
+  "网站通用标题": {
+    "cn": "LINKING VALUE & SERVING THE WORLD!",
+    "en": "LINKING VALUE & SERVING THE WORLD!",
+    "jp": "LINKING VALUE & SERVING THE WORLD!",
+    "kr": "LINKING VALUE & SERVING THE WORLD!"
+  },
+  "网站通用关键字": {
+    "cn": "UB,UB.COM,UBTC,UnitedBitcoin,United Bitcoin,Bitcoin fork,IFO,Initial Fork Offering",
+    "en": "UB,UB.COM,UBTC,UnitedBitcoin,United Bitcoin,Bitcoin fork,IFO,Initial Fork Offering",
+    "jp": "UB,UB.COM,UBTC,UnitedBitcoin,United Bitcoin,Bitcoin fork,IFO,Initial Fork Offering",
+    "kr": "UB,UB.COM,UBTC,UnitedBitcoin,United Bitcoin,Bitcoin fork,IFO,Initial Fork Offering"
+  },
+  "网站通用描述": {
+    "cn": "UnitedBitcoin is a super joint credit carrier with the target to establish a powerful global network and support the eco-system and improve collaboration by using credit from the UB foundation.",
+    "en": "UnitedBitcoin is a super joint credit carrier with the target to establish a powerful global network and support the eco-system and improve collaboration by using credit from the UB foundation.",
+    "jp": "UnitedBitcoin is a super joint credit carrier with the target to establish a powerful global network and support the eco-system and improve collaboration by using credit from the UB foundation.",
+    "kr": "UnitedBitcoin is a super joint credit carrier with the target to establish a powerful global network and support the eco-system and improve collaboration by using credit from the UB foundation."
+  },
+  "网站通用ICO": {
+    "cn": "[$1]/favicon/favicon.ico",
+    "en": "[$1]/favicon/favicon.ico",
+    "jp": "[$1]/favicon/favicon.ico",
+    "kr": "[$1]/favicon/favicon.ico"
+  },
+  "网站通用LOGO": {
+    "cn": "[$1]/images/home/ub-logo.png",
+    "en": "[$1]/images/home/ub-logo.png",
+    "jp": "[$1]/images/home/ub-logo.png",
+    "kr": "[$1]/images/home/ub-logo.png"
+  },
+  "网站底部LOGO": {
+    "cn": "[$1]/images/common/chbtc_logo_foot.png",
+    "en": "[$1]/images/common/chbtc_logo_foot.png",
+    "jp": "[$1]/images/common/chbtc_logo_foot.png ",
+    "kr": "[$1]/images/common/chbtc_logo_foot.png"
+  },
+  "网站正在维护中...": {
+    "cn": "网站正在维护中...",
+    "en": "The website is in the process of maintenance...",
+    "jp": "ウェブサイトはメンテナンス中です…",
+    "kr": "사이트 지금 보수 중..."
+  }
+}
